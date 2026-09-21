@@ -36,8 +36,7 @@
 
 🎓 **[Edora AI Tutor](https://github.com/2YASMINE/edora-ai-tutor)** — AI-powered pedagogical chatbot integrated in Moodle using RAG architecture, FastAPI and Google Gemini. Built during summer internship at Edora LMS (Québec).
 
-🧭 **[Student Guidance](https://github.com/2YASMINE/student-guidance)** — AI-powered career guidance platform using CV analysis and Gemini API.
-
+🧭 **[Student Guidance](https://github.com/2YASMINE/student-guidance)** — End-of-study project (PFE) — AI-powered career guidance platform using CV analysis and Gemini API.
 ---
 
 ### 📊 GitHub Stats
